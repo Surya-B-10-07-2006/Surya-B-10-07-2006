@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Surya 👋</h1>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00E676&center=true&vCenter=true&width=700&lines=Student;Data+Analyst+Enthusiast;Data+Science+Enthusiast;Power+BI+Developer;BI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00E676&center=true&vCenter=true&width=700&lines=Student🎓;Data+Analyst+Enthusiast📈;Data+Science+Enthusiast🧑‍💻;Power+BI+Developer📊;BI+Enthusiast💻" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 - 🎓 B.Tech AI & Data Science (2nd Year), Sri Eshwar College of Engineering  
-- 💡 Passionate about AI, Full-Stack Development, and Data Analytics  
+- 💡 Passionate about AI, Data Science, Data Analytics
 - 📈 Solved 1200+ coding problems across platforms  
-- 🌱 Currently learning: **Machine Learning, Data Science , Power BI , Excel , SQL**
+- 🎓 Currently learning: **Machine Learning, Data Science , Power BI , Excel , SQL**
 
 ---
 
@@ -61,7 +61,7 @@
 ### ⭐ Tools  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
 </p>
 
@@ -122,9 +122,6 @@
 ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Surya-B-10-07-2006&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Surya-B-10-07-2006&theme=radical)
-
-![GitHub Snake](https://github.com/Surya-B-10-07-2006/Surya-B-10-07-2006/blob/output/github-contribution-grid-snake-dark.svg)
-
 
 ---
 

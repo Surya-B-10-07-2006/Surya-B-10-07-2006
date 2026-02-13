@@ -110,7 +110,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Surya-B-10-07-2006&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Surya-B-10-07-2006&theme=onedark&margin-w=10&no-frame=true)
+![GitHub Snake](https://github.com/Surya-B-10-07-2006/Surya-B-10-07-2006/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 

@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Surya 👋</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00E676&center=true&vCenter=true&width=700&lines=Student;Data+Analyst+Enthusiast;Data+Science+Enthusiast;Power+BI+Developer;BI+Enthusiast)](https://git.io/typing-svg)
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00E676&center=true&vCenter=true&width=700&lines=Student;Data+Analyst+Enthusiast;Data+Science+Enthusiast;Power+BI+Developer;BI+Enthusiast" alt="Typing SVG" />
+  </a>
 </h3>
 
 ---

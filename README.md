@@ -102,13 +102,15 @@
 
 ## 💻 Coding Profiles
 
-| Platform | Profile |
-|---------|---------|
-| **SkillRack** | Solved 700+ problems — Bronze & Silver Badge — https://shorturl.at/GU9QJ |
-| **LeetCode** | Solved 200+ problems — https://leetcode.com/u/SURYA_B_2006/ |
-| **HackerRank** | Python (3★), C (3★), SQL (1★) — https://www.hackerrank.com/profile/surya_b2024aids |
-| **CodeChef** | Solved 300+ problems — https://www.codechef.com/users/suryabaskar7 |
-
+<p align="left">
+● SkillRack
+<img src="https://play-lh.googleusercontent.com/mKZ0-vh3-LV0t6FJgG7M5KJ0Z8R5oYwUTk2kIuQqwCokp-GLumZ5qX6Ch12HaxDTwA=w240-h480-rw" width="40" /> &nbsp; **Solved 700+ problems** — Bronze & Silver Badge 🔗 https://shorturl.at/GU9QJ
+● LeetCode
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" /> &nbsp; **Solved 200+ problems** 🔗 https://leetcode.com/u/SURYA_B_2006/
+● HackerRank
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" /> &nbsp; Python (3★), C (3★), SQL (1★) 🔗 https://www.hackerrank.com/profile/surya_b2024aids
+● CodeChef
+<img src="https://upload.wikimedia.org/wikipedia/en/2/2f/CodeChef_Logo.png" width="40" /> &nbsp; **Solved 300+ problems** 🔗 https://www.codechef.com/users/suryabaskar7 </p>
 ---
 
 ## 📊 GitHub Contributions

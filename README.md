@@ -49,69 +49,55 @@ Government Higher Secondary School
 - Generates PDF reports  
 
 ---
-
 ## 🔧 Tech Stack & Skills
 
-### ⭐ Programming  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<!-- ⭐ Programming -->
+<h3 align="center">⭐ Programming</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" style="margin: 0 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" style="margin: 0 30px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="margin: 0 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" style="margin: 0 30px;"/>
 </p>
 
-### ⭐ Data Tools  
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+<!-- ⭐ Data Tools -->
+<h3 align="center">⭐ Data Tools</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" style="margin: 0 30px;"/>
+  <img src="https://img.icons8.com/color/512/tableau-software.png" width="60" style="margin: 0 30px;"/>
+  <img src="https://img.icons8.com/color/452/microsoft-excel-2019.png" width="60" style="margin: 0 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" style="margin: 0 30px;"/>
 </p>
 
-### ⭐ Web Development  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+<!-- ⭐ Web Development -->
+<h3 align="center">⭐ Web Development</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" style="margin: 0 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" style="margin: 0 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="margin: 0 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" style="margin: 0 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" style="margin: 0 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" style="margin: 0 30px;"/>
 </p>
 
-### ⭐ Databases  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<!-- ⭐ Databases -->
+<h3 align="center">⭐ Databases</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" style="margin: 0 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" style="margin: 0 30px;"/>
 </p>
-
-### ⭐ Tools  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-</p>
- 
 
 ---
 
 ## 🏆 Certifications  
 - Power BI for Data Analysis – Microsoft (Simplilearn)  
-- Introduction to MS Excel – Microsoft  
+- Introduction to MS Excel – Microsoft  (Simplilearn)
 - Python for Data Analysis: Pandas & NumPy – Coursera  
-- Microsoft Power BI Badge  
-
----
-
-## 🥇 Achievements  
-- Participated in **Createathon** – Inter College Hackathon  
-- Participated in **Freshathon** – Inter College Hackathon  
+- Data	Visualisation : Tata Forage
 
 ---
 
 ## 💻 Coding Profiles  
-
-## 💻 Coding Profiles
 
 | Platform | Details | Profile |
 |---------|---------|---------|
@@ -122,9 +108,24 @@ Government Higher Secondary School
 
 
 ---
+## 📫 Contact
 
-## 📫 Contact  
-📧 Email: **surya.b2024aids@sece.ac.in**  
-🔗 LinkedIn: https://www.linkedin.com/in/surya-b-499669328/  
-🐙 GitHub: https://github.com/Surya-B-10-07-2006  
+<p align="center">
+
+<!-- GitHub -->
+<a href="https://github.com/Surya-B-10-07-2006" target="_blank" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/surya-b-499669328/" target="_blank" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- Gmail -->
+<a href="mailto:surya.b2024aids@sece.ac.in" target="_blank" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 

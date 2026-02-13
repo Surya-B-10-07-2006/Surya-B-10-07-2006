@@ -104,15 +104,13 @@
 
 ## 📊 GitHub Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surya-B-10-07-2006&show_icons=true&theme=radical)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Surya-B-10-07-2006&cc=000&tc=fff&ic=fff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-B-10-07-2006&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Surya-B-10-07-2006&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Surya-B-10-07-2006&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Surya-B-10-07-2006&theme=onedark)
-
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Surya-B-10-07-2006&theme=onedark&margin-w=10&no-frame=true)
 
 ---
 

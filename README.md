@@ -7,7 +7,7 @@
 - 🎓 B.Tech AI & Data Science (2nd Year), Sri Eshwar College of Engineering  
 - 💡 Passionate about AI, Full-Stack Development, and Data Analytics  
 - 📈 Solved 1200+ coding problems across platforms  
-- 🌱 Currently learning: **Machine Learning, React, Power BI**
+- 🌱 Currently learning: **Machine Learning, Data Science , Power BI , Excel , SQL**
 
 ---
 
@@ -102,17 +102,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Contributions
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surya-B-10-07-2006&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-B-10-07-2006&layout=compact&theme=radical)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Surya-B-10-07-2006&theme=radical)
 
-## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Surya-B-10-07-2006&theme=onedark)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Surya-B-10-07-2006&theme=onedark)
 
 ---
 
